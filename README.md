@@ -1,4 +1,4 @@
-This is the repository of My Hero, Kobe Bryant
+This is the repository of My Hero
 
 
 - Samuel Folledo
