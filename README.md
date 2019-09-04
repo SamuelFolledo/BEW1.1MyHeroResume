@@ -1,6 +1,6 @@
-#**My Hero Resume, which is myself**
+#**My Hero Resume, which is <h1>myself**
 
-###This is what the resume currently looks like
+###This is what the resume currently looks like###
 ![GitHub Logo](/sample.png)
 
 
