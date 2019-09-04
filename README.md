@@ -1,6 +1,7 @@
-**My Hero Resume, which is myself**
+#**My Hero Resume, which is myself**
 
+###This is what the resume currently looks like
 ![GitHub Logo](/sample.png)
-Format: ![Alt Text](url)
+
 
 - Samuel Folledo
