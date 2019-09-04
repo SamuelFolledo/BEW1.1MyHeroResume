@@ -1,0 +1,65 @@
+/* tags */
+body {
+    background-color: black;
+}
+
+/* IDs = needs to be unique */
+#headerBox {
+    width: 92%;
+    padding: 0px 5px 5px 0px;
+    height: 30%;
+    margin: 10px;
+    padding: 0px;
+    border: 30px solid #474747
+}
+
+#footerBox {
+    width: 92%;
+    padding: 5px 0px 5px 0px;
+    height: 10%;
+    margin: 10px;
+    border: 30px solid #474747;
+    position: absolute; /* make the position go outside of the box */
+    top: 80%; /* the box's top starts 80% from the top */
+}
+
+#goldBox {
+    width: 33%;
+    height: 90%;
+    margin: 10px;
+    border: 30px solid gold;
+    padding: 0px;
+    background-color: red;
+    float: right;
+}
+
+#darkGrayBox {
+    width: 45%;
+    height: 90%;
+    margin: 10px;
+    border: 50px solid #474747;
+    padding: 0px;
+    float: left;
+}
+
+#grayBox {
+    /* width: 80%; */
+    /* height: 90%; */
+    margin: 0px;
+    border: 30px solid gray;
+    padding: 0px;
+    
+}
+
+#lightGrayBox {
+    /* width: 80%; */
+    /* height: 90%; */
+    margin: 0px;
+    border: 10px solid lightgray;
+    padding: 0px;
+    
+}
+
+/* class */
+.red { color: red; }
+.large {font-size: 30px; }
